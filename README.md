@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Pleased to meet you ⥱ I'm RIYAZ AHAMED K K</h1>
+<h1 align="center">Pleased to meet you ⥱ I'm MADHUMITHA S G</h1>
 <h3 align="center">A Passionate Software developer from India</h3>
 
 ###
@@ -15,22 +15,26 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on ➺ Portfolio<br><br>🌱 I’m currently learning ➺ Python <br><br>👨‍💻 All of my projects are available at ➺ https://rockerz2z.github.io/devportfolio/<br><br>📫 How to reach me ➺ riyazahamed1806@gmail.com<br><br>📄 Know about my experiences ➺ https://tinyurl.com/4dkkcx5h<br><br>⚡"Crafting the Future | AI + Data Science.🤖👨🏻‍💻"
+<p align="left">🔭 I’m currently working on ➺ Portfolio<br><br>🌱 I’m currently learning ➺ Python <br><br>👨‍💻 All of my projects are available at ➺ https://madhumitha2103.github.io/mithuportfolio/<br><br>📫 How to reach me ➺ mithuvasan21@gmail.com<br><br>📄 Know about my experiences ➺ https://tinyurl.com/bddcv4au<br><br>⚡"Crafting the Future | AI + Data Science.🤖👨🏻‍💻"
 </p>
 
 
-### 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riyaz.__z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riyaz-ahamed-k-k-49495b240) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rockerz2z) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/madhumitha-s-g-5ab140213) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Riyazahamed2003&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Riyazahamed2003&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyazahamed2003&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mithuvasan&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mithuvasan&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mithuvasan&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mithuvasan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Riyazahamed2003&icon=0&color=6)](https://visitcount.itsvg.in)
-###
+[![](https://visitcount.itsvg.in/api?id=mithuvasan&icon=0&color=2)](https://visitcount.itsvg.in)
